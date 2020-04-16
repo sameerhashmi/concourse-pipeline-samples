@@ -5,5 +5,4 @@ COPY \
        jq \
        tmc \
        tkg \
-       aws-cli \
        /usr/local/bin/
